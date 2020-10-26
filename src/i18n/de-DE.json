@@ -1,0 +1,11 @@
+{
+	"translation": {
+		"HelloWorldIntent": {
+			"welcome": "Hallo Wereld! Wat is je naam?",
+			"reprompt": "Vertel me alsjeblieft je naam."
+		},
+		"MyNameIsIntent": {
+			"prompt": "Hey {{name}}, leuk je te ontmoeten!"
+		}
+	}
+}

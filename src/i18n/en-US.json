@@ -1,0 +1,11 @@
+{
+  "translation": {
+    "HelloWorldIntent": {
+      "welcome": "Hello World! What's your name?",
+      "reprompt": "Please tell me your name."
+    },
+    "MyNameIsIntent": {
+      "prompt": "Hey {{name}}, nice to meet you!"
+    }
+  }
+}
